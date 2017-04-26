@@ -15,8 +15,10 @@ public class PLayerController : MonoBehaviour {
 	private Rigidbody rb;
 	private int count;
     float Timer;
-	private string fileName = "C:\\Users\\alber\\Documents\\Alby\\Università\\IUM\\progetto\\The_Amazing_Maze\\Progetto IUM\\leap version\\Dati\file.txt";
-
+    //PATH ALLBY 
+    //private string fileName = "C:\\Users\\alber\\Documents\\Alby\\Università\\IUM\\progetto\\The_Amazing_Maze\\Progetto IUM\\leap version\\Dati\\file.txt";
+    //PATH FEDE
+    private string fileName = "C:\\Users\\parez\\Documents\\GitHub\\The_Amazing_Maze\\Progetto IUM\\leap version\\Dati\\file.txt";
     void Start ()
 	{
 		rb = GetComponent<Rigidbody>();
@@ -79,6 +81,7 @@ public class PLayerController : MonoBehaviour {
             //Debug.LogError("Time: " + Timer + "sec");
             Application.LoadLevel("end");
             //Dire cosa succede
+            controller.StopConnection();
         }
 
 	}

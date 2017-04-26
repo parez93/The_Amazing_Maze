@@ -127,7 +127,7 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="LeapCSharp.NET3.5">
- <HintPath>C:/Users/alber/Documents/Alby/Università/IUM/progetto/The_Amazing_Maze/Progetto IUM/leap version/Assets/Plugins/LeapCSharp.NET3.5.dll</HintPath>
+ <HintPath>C:/Users/parez/Documents/GitHub/The_Amazing_Maze/Progetto IUM/leap version/Assets/Plugins/LeapCSharp.NET3.5.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
