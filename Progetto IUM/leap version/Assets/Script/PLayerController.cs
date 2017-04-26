@@ -15,7 +15,7 @@ public class PLayerController : MonoBehaviour {
 	private Rigidbody rb;
 	private int count;
     float Timer;
-    private string fileName = "C:\\Users\\parez\\Desktop\\Progetto IUM\\ium_project\\Dati\\file.txt";
+	private string fileName = "C:\\Users\\alber\\Documents\\Alby\\Università\\IUM\\progetto\\The_Amazing_Maze\\Progetto IUM\\leap version\\Dati\file.txt";
 
     void Start ()
 	{

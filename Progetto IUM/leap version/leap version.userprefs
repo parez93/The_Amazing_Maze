@@ -4,7 +4,7 @@
     <Files>
       <File FileName="Assets\LeapMotion\Scripts\Hands\CapsuleHand.cs" Line="1" Column="1" />
       <File FileName="Assets\LeapMotion\Scripts\DataStructures\Editor\Tests\RingBufferTest.cs" Line="1" Column="1" />
-      <File FileName="Assets\Script\PLayerController.cs" Line="12" Column="14" />
+      <File FileName="Assets\Script\PLayerController.cs" Line="18" Column="150" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
